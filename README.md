@@ -1,27 +1,38 @@
-# Project Name
+# A TECHNICAL DOCUMENTATION
 
-> One paragraph statement about the project.
+> A technical documentation webpage built to serve as instruction or reference for a topic to earn certification.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description of the project and its features.
-
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 elements
+  - `nav`, `section`, `article`, etc.
+- CSS properties
+  - CSS Background for page aesthetic using
+    `background-color`.
+  - CSS Typography properties
+    `text-decoration`, `word-break`, `font-weight`, `font-family`, `color`, etc
+  - CSS Box Model properties
+    `border-bottom`,`padding`, `box-sizing`, `border-collapse`, etc
+  - CSS Flexbox properties
+    `flex-direction`, `overflow`, etc
+  - CSS Overflowing properties `overflow-y`, `overflow-x`, etc
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/).
+- GitHub Action
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://technical-documentation-page-ismail.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone git@github.com:ismailadekunle/fcc-technical-documentation-page.git
 
 ```
 
@@ -65,14 +76,14 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@ismailadekunle](https://github.com/ismailadekunle)
+- Twitter: [@ismailadekunle](https://twitter.com/ismailadekunle)
+- Linkedin: [@ismailAdekunleJIMOH](https://www.linkedin.com/in/ismailAdekunleJIMOH/)
+- Freecodecamp: [@ismailadekunle](https://www.freecodecamp.org/ismailadekunle)
 
 ## 🤝 Contributing
 
@@ -86,9 +97,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- Freecodecamp: (https://www.freecodecamp.org/learn/2022/responsive-web-design#build-a-technical-documentation-page-project)
 
 ## 📝 License
 
